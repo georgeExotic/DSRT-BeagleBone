@@ -1,3 +1,3 @@
-# DSRT-BeagleBone
+# DSTR-BeagleBone
 
-Code written by Jorge Roa for the DSRT robot using a BeagleBone Blue.
+Code written by Jorge Roa for the DSTR robot using a BeagleBone Blue.
