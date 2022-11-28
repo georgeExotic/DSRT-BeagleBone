@@ -10,7 +10,7 @@ import rcpy.adc as adc
 
 
 
-##inverse kinematics##
+##inverse kinematics## 
 # x_dot is the y axis in the joystick 
 # theta_dot is the x axis in the joystick
 
